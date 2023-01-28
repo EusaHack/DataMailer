@@ -1,5 +1,5 @@
 # DataMailer
-## Este fue un proyecto realizado para una empresa la cual queria automatizar el envio de los datos de la pc para darle soporte o realizar el reporte con los daos enviados
+## Este fue un proyecto realizado para una empresa la cual queria automatizar el envio de los datos de la pc para darle soporte o realizar el reporte con los datos enviados
 ### Se utilizo el lenguaje python, se subio el archivo .py pero si se puede convertir a .exe para que lo puedan llevar en una memoria y utilizar sin instalar nada
 #### Nota : este software solo sirve para windows y correos outlook
 
