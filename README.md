@@ -7,7 +7,7 @@
 
 [![1.png](https://i.postimg.cc/HL175Dvp/1.png)](https://postimg.cc/mPVDfqGq)
 
-2.  Se crean las varaibles para otner los datos especificos
+2.  Se crean las varaibles para obtner los datos especificos
 
 [![2.png](https://i.postimg.cc/prKdPpxz/2.png)](https://postimg.cc/645K068p)
 
@@ -48,7 +48,7 @@
 
 [![9.png](https://i.postimg.cc/Wz8V1rFR/9.png)](https://postimg.cc/y3DtfDyn)
 
-10. Presentacion del poryecto 
+10. Presentacion del proyecto 
 
 [![10.png](https://i.postimg.cc/gJcNPZWL/10.png)](https://postimg.cc/Y4V16jjt)
 
